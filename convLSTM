@@ -1,0 +1,23 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May  2 10:47:51 2019
+
+@author: mu.yang
+"""
+
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+
+from keras.models import Sequential
+from keras.layers import LSTM
+from keras.layers import Dense
+from keras.layers import Flatten
+from keras.layers import ConvLSTM2D
+
+model = Sequential()
+#model.add(LSTM(units=32, input_shape=(12, 8)))
+
+#timesteps=12, n_of_features=8, outputs/units=3,batch_size=2000
+model.add(LSTM(units=3, batch_input_shape=(2000, 12, 8)))
+
