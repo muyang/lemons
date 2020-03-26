@@ -32,6 +32,8 @@ Le- & mon- are respectively the phonogram for the names of two members of us. An
 
 #### Loss Plot
 <img src=plot_2020-03-26_23-52-04.png/>
+<img src=plot_2020-03-26_23-52-04.png/>
+<img src=plot_2020-03-26_23-52-04.png/>
 Documentation
 =============
 Our online documentation is now live at https://lemons.gitbook.io/project/ .
