@@ -16,7 +16,6 @@ Le- & mon- are respectively the phonogram for the names of two members of us. An
 <img src=http://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png />
 
 
-
 ### What will lemons be?
 =======================
 
@@ -31,8 +30,8 @@ Le- & mon- are respectively the phonogram for the names of two members of us. An
 #### 3. Lemons will come out of the code world...
 ---------------------------------------------
 
-
-
+#### Loss Plot
+<img src=plot_2020-03-26_23-52-04.png/>
 Documentation
 =============
 Our online documentation is now live at https://lemons.gitbook.io/project/ .
